@@ -18,4 +18,7 @@ concentran el mayor nivel de ingresos.
 Esto evidencia que la cantidad de clientes no necesariamente se
 traduce en mayores ingresos, ya que la frecuencia de compra y el
 valor generado por cada cliente tienen un papel fundamental.
+![Dashboard Productos](notebook/Products_page-0001.jpg)
+
+
 
