@@ -36,3 +36,5 @@ Al analizar el Top 5 de productos, se observa una diferencia interesante entre c
 
 Los cinco productos del Top 5 generaron ingresos totales de $5.004.540, lo que representa el 44,5 % del total de las ventas.
 
+
+
