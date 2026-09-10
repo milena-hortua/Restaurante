@@ -38,3 +38,4 @@ Los cinco productos del Top 5 generaron ingresos totales de $5.004.540, lo que r
 
 ![General indicators](notebook/General_indicators.jpg)
 
+
