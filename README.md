@@ -22,8 +22,6 @@ Esto evidencia que la cantidad de clientes no necesariamente se
 traduce en mayores ingresos, ya que la frecuencia de compra y el
 valor generado por cada cliente tienen un papel fundamental.
 
-![Dashboard Productos](notebook/Products_page-0001.jpg)
-
 ![Products page](notebook/Products_page-0001.jpg)
 
 Este dashboard analiza el comportamiento de las ventas de los productos del restaurante.
