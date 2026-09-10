@@ -38,4 +38,12 @@ Los cinco productos del Top 5 generaron ingresos totales de $5.004.540, lo que r
 
 ![General indicators](notebook/General_indicators.jpg)
 
+Por último, se presenta una visión general del comportamiento de las ventas. El total de ingresos alcanzó $11.234.623, distribuidos a lo largo de los diferentes días de la semana.
+
+Las ventas presentan un comportamiento relativamente estable durante la semana. El jueves registró el menor nivel de ventas, con $1.519.953, mientras que el viernes alcanzó el mayor valor, con $1.731.835.
+
+Por franja horaria, Dinner concentra el mayor porcentaje de los ingresos, con el 45,9 %, seguido de Lunch y Breakfast.
+
+Los ingresos presentan una distribución equilibrada entre los diferentes métodos de pago, con participaciones muy similares entre Mobile Payment, Card y Cash, cada uno cercano al 33 %.
+
 
